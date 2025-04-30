@@ -32,3 +32,4 @@ https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/pages/lect
 https://css.csail.mit.edu/6.5660/2024/ (only some stuff is relevent)
 https://insights.sei.cmu.edu/blog/topics/reverse-engineering-for-malware-analysis/ (blogs)
 https://class.malware.re/
+https://ligerlabs.org/index.html
