@@ -27,3 +27,8 @@ https://github.com/xairy/linux-kernel-exploitation
 https://github.com/google/syzkaller
 https://securitymaven.medium.com/
 https://www.geeksforgeeks.org/memory-layout-of-c-program/
+https://www.cl.cam.ac.uk/teaching/2021/SWSecEng/materials.html (probably too basic)
+https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/pages/lecture-notes/
+https://css.csail.mit.edu/6.5660/2024/ (only some stuff is relevent)
+https://insights.sei.cmu.edu/blog/topics/reverse-engineering-for-malware-analysis/ (blogs)
+https://class.malware.re/
