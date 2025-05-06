@@ -3,6 +3,7 @@ Summer is comming up and since I can't read this stuff right now, I'm putting it
 
 # The Stuff
 | Link | Rating | Review | 
+| -------- | -------- | -------- |
 | [College Video Course on Reverse Engineering](https://www.youtube.com/playlist?list=PL6IR-mL3ooBCZx0LYnRCtu3nVdmBI777z) | 
 | [College Video Course on Reverse Engineering](https://www.youtube.com/playlist?list=PL6IR-mL3ooBDeVi7cSzhc9LkChsdkdfIM) |
 | [Binary Exploitation Wargames](https://exploit.education/phoenix/getting-started/) |
