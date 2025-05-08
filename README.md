@@ -34,3 +34,5 @@ Summer is comming up and since I can't read this stuff right now, I'm putting it
 | https://insights.sei.cmu.edu/blog/topics/reverse-engineering-for-malware-analysis/ (blogs) | | | No |
 | https://class.malware.re/ | | | No |
 | https://ligerlabs.org/index.html | | | No |
+| [pwn.college](https://pwn.college/) | | | No |
+| [Defcon CTF Archives](https://archive.ooo/) | | | No |
